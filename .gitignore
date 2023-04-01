@@ -2,3 +2,7 @@ weights
 MNIST
 dataset
 CIFAR10
+log
+python3
+__pycache__
+.vscode
