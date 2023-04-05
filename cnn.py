@@ -449,4 +449,4 @@ def test_pool_bp():
     print ('input array:\n%s\nsensitivity array:\n%s\ndelta array:\n%s' % (
         a, b, mpl.delta_array))
 
-test()
+gradient_check()
